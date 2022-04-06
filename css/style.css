@@ -34,10 +34,10 @@ html{
     margin:0 auto;
 }
 .img__item{
-    border: 1px solid black;
+    border: 8px solid black;
     border-radius: 5%;
-    width: 240px;
-    height: 300px;
+    width: 260px;
+    
 }
 .catalog__item__text{
     color: rgb(61, 19, 100);
